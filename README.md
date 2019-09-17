@@ -24,7 +24,7 @@ curl localhost:1026/v2/entities -s -S -H 'Content-Type: application/json' -d @- 
 EOF
 ```
 
-# Create AirConditioner entity
+# Create Room entity
 
 ```
 curl localhost:1026/v2/entities -s -S -H 'Content-Type: application/json' -d @- <<EOF
