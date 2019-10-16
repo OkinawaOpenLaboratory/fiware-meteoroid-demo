@@ -1,8 +1,7 @@
-# FIWARE Orion × OpenWhisk
+# FIWARE Meteoroid Demo
+We demonstrated concept of Meteoroid
 
-This is experiment repository to connect FIWARE Orion and OpenWhisk action.
-
-## Why connection FIWARE Orion and OpenWhisk action
+## Why integration FIWARE Orion and OpenWhisk
 
 When using FIWARE Orion, notification destination business logic may be required.
 We plan to make it easy to register business logic using a combination of FIWARE Orion and FaaS (Function as a Service).
