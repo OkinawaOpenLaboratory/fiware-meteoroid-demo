@@ -86,8 +86,8 @@ EOF
 # Clone action script using git
 
 ```
-$ git clone https://github.com/ryo-ma/FIWARE_Orion_and_OpenWhisk.git
-$ cd FIWARE_Orion_and_OpenWhisk
+$ git clone https://github.com/OkinawaOpenLaboratory/fiware-meteoroid-demo.git
+$ cd fiware-meteoroid-demo
 ```
 
 # Create  action
